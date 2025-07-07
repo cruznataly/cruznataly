@@ -1,16 +1,13 @@
-## Hi there 👋
+### boas vindas ao meu perfil 💮
 
-<!--
-**cruznataly/cruznataly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é nataly 
 
-Here are some ideas to get you started:
+- estou estudando no alura
+- estou me desenvolvendo na linguagem javascript
+- utilizo esse espaço para meus projetos desnvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### entre em contato comigo :
+
+nataly.ferreira.cruz@escola.pr.gov.br
+
+![](https://media1.tenor.com/m/dQMpyYb-H2cAAAAC/ahoklollmao-angry-cat.gif)
